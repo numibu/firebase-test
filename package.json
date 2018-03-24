@@ -1,0 +1,20 @@
+{
+  "name": "firebase-test",
+  "version": "1.0.0",
+  "description": "firebase test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "firebase",
+    "jquery"
+  ],
+  "author": "Alexandr Naumenko",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^4.0.1",
+    "typescript": "^2.7.2"
+  }
+}
